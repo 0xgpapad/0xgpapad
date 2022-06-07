@@ -1,6 +1,16 @@
-### Hi there 👋
+###
+![](https://visitor-badge.glitch.me/badge?page_id=r0xgpapad.0xgpapad)
+<a href="https://github.com/0xgpapad"><img src="https://img.shields.io/github/followers/0xgpapad?label=follow&style=social&link=https://www.github.com/0xgpapad/" height="22" title="Follow me" align="left" alt="GitHub-Followers"></a>
+
+##
+<a href="https://github.com/0xgpapad" target="_blank" rel="nofollow"><img align="right" alt="gpapad Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://gitlab.com/gpapad" target="_blank" rel="nofollow"><img align="right" alt="gpapad Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+<a href="https://stackoverflow.com/users/1009130/gpapad" target="_blank" rel="nofollow"><img align="right" alt="gpapad Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+<a href="https://www.facebook.com/drgpapad/" target="_blank" rel="nofollow"><img align="right" alt="gpapad Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://twitter.com/dr_gpapad" target="_blank" rel="nofollow"><img align="right" alt="gpapad Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/0xgpapad" target="_blank" rel="nofollow"><img align="right" alt="gpapad Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://www.instagram.com/dr_gpapad" target="_blank" rel="nofollow"><img align="right" alt="gpapad IG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <!--
+personal website: https://www.gpapad.com/
 **0xgpapad/0xgpapad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
